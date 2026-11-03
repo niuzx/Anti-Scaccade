@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "four_model_cpu_forward_backward": true,
+    "excluded_modality_invariance": true,
+    "subject_fold_separation": true,
+    "exact_prediction_metric_identity": true,
+    "python_source_parsing": true
+  },
+  "scope": "Public release staged on a CPU under the matching paper Python environment; not full retraining",
+  "participant_records_included": false,
+  "checkpoints_included": false
+}

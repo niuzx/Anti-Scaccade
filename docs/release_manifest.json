@@ -1,0 +1,127 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 240,
+    "sha256": "0a2709745e67b64980bb0731db297017932b3da8cc200f55427edab45742501b"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4126,
+    "sha256": "40bd341d08e061816337696e5ed3ac56bf9b4330312b9337f94dd91565ad82f4"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 239,
+    "sha256": "bac1a72125ea44cb6853810c0f41c23c48e25e3c2da0024225d3e17739aa5528"
+  },
+  {
+    "path": "configs/balanced.json",
+    "bytes": 1889,
+    "sha256": "e7f8cc6fc32375653c56da44c2eb7a18b4b5d47ad77e5bca55f1956259372832"
+  },
+  {
+    "path": "configs/natural.json",
+    "bytes": 2161,
+    "sha256": "f0e4b71e8a71ed0f017704c50f5ef298ea134ced2145ade8ea8e0cd54cc8059f"
+  },
+  {
+    "path": "docs/data_contract.md",
+    "bytes": 1191,
+    "sha256": "ca757d6f73b1cf07ce068e8578d4230d7372185e180ca6a0c703648c791688b8"
+  },
+  {
+    "path": "docs/source_provenance.json",
+    "bytes": 1705,
+    "sha256": "69ce77538143a57f3af548fad55af89c711ab3efc00a1225c28334eb73920a9d"
+  },
+  {
+    "path": "scripts/prepare_private_data.py",
+    "bytes": 3478,
+    "sha256": "4f537b84b1ab26391b66491f8adfcacf99e6327a6d263430e4bce771f104b6c8"
+  },
+  {
+    "path": "tests/smoke_models.py",
+    "bytes": 1502,
+    "sha256": "76320783796e7732d8b14589760bc5fb8d6a4e588251cd225298b40e168bbb45"
+  },
+  {
+    "path": "experiments/balanced/audit_data.py",
+    "bytes": 5918,
+    "sha256": "5c05f0d8868ae5ef2bb6a025a46f90a117cb5dbb2c10c6451acee0a9e5b3bce7"
+  },
+  {
+    "path": "experiments/balanced/latest_model.py",
+    "bytes": 5213,
+    "sha256": "a2689e01ebdd72887fc8fe930a6a489a4cdeba494f143283a9e3b6883dd0eef6"
+  },
+  {
+    "path": "experiments/balanced/locked_config.json",
+    "bytes": 1889,
+    "sha256": "e7f8cc6fc32375653c56da44c2eb7a18b4b5d47ad77e5bca55f1956259372832"
+  },
+  {
+    "path": "experiments/balanced/run_revision.py",
+    "bytes": 19090,
+    "sha256": "c54ef56b7e9b18e7c9e8b18a0d9c31cb7e361d4d6591de3f6fd6ee3fe9384dde"
+  },
+  {
+    "path": "experiments/natural/audit_data.py",
+    "bytes": 5918,
+    "sha256": "5c05f0d8868ae5ef2bb6a025a46f90a117cb5dbb2c10c6451acee0a9e5b3bce7"
+  },
+  {
+    "path": "experiments/natural/latest_model.py",
+    "bytes": 5213,
+    "sha256": "a2689e01ebdd72887fc8fe930a6a489a4cdeba494f143283a9e3b6883dd0eef6"
+  },
+  {
+    "path": "experiments/natural/locked_config.json",
+    "bytes": 2161,
+    "sha256": "f0e4b71e8a71ed0f017704c50f5ef298ea134ced2145ade8ea8e0cd54cc8059f"
+  },
+  {
+    "path": "experiments/natural/run_revision.py",
+    "bytes": 19022,
+    "sha256": "5721ddfc9f4de64825b334df3f02e0cd786b968e6f70f41d24e95f5391485023"
+  },
+  {
+    "path": "experiments/balanced/model_source/model_share_transformer.py",
+    "bytes": 12082,
+    "sha256": "916f19a2ad8b963db0748ecff2612d02c2c38d8a46d730dff252fcde291bfc1c"
+  },
+  {
+    "path": "experiments/balanced/model_source/train_classification_multitask_addsmell_0409.py",
+    "bytes": 39575,
+    "sha256": "5d35f30e64b3222fe520c49fd64721ab0fad3687e9897f76bb65dbb2c1ec123c"
+  },
+  {
+    "path": "experiments/balanced/model_source/train_classification_multitask_addsmell_0409_balanced.py",
+    "bytes": 21192,
+    "sha256": "72c6eba910f5e445f0dd0fddc0689d427c295025c32754295a979751e1b2e14b"
+  },
+  {
+    "path": "experiments/balanced/model_source/train_classification_multitask_addsmell_wavelet_0409.py",
+    "bytes": 28553,
+    "sha256": "2e81b0f9adccfa62913f1a7ebc5e4a449993b5052de8db1ad7c12df6ca9a2b4a"
+  },
+  {
+    "path": "experiments/natural/model_source/model_share_transformer.py",
+    "bytes": 12082,
+    "sha256": "916f19a2ad8b963db0748ecff2612d02c2c38d8a46d730dff252fcde291bfc1c"
+  },
+  {
+    "path": "experiments/natural/model_source/train_classification_multitask_addsmell_0409.py",
+    "bytes": 39575,
+    "sha256": "5d35f30e64b3222fe520c49fd64721ab0fad3687e9897f76bb65dbb2c1ec123c"
+  },
+  {
+    "path": "experiments/natural/model_source/train_classification_multitask_addsmell_0409_balanced.py",
+    "bytes": 21192,
+    "sha256": "72c6eba910f5e445f0dd0fddc0689d427c295025c32754295a979751e1b2e14b"
+  },
+  {
+    "path": "experiments/natural/model_source/train_classification_multitask_addsmell_wavelet_0409.py",
+    "bytes": 28553,
+    "sha256": "2e81b0f9adccfa62913f1a7ebc5e4a449993b5052de8db1ad7c12df6ca9a2b4a"
+  }
+]

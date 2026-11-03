@@ -1,0 +1,12 @@
+# Python 3.11; paper execution used PyTorch 2.10.0 with CUDA 12.8.
+torch==2.10.0
+numpy==2.3.5
+scipy==1.15.3
+pandas==2.3.3
+scikit-learn==1.9.1
+matplotlib==3.11.2
+openpyxl==3.1.5
+pypinyin==0.55.0
+PyWavelets==1.9.0
+einops==0.8.2
+tqdm==4.70.1

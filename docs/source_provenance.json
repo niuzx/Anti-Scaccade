@@ -1,0 +1,30 @@
+[
+  {
+    "public_path": "experiments/balanced/run_revision.py",
+    "source_role": "balanced locked evaluation",
+    "original_source_sha256": "b40bcc5f2e456da8691c5803eb73a488e7d2e3a06e9534f56f7427920dfcc15a",
+    "published_blob_sha256": "c54ef56b7e9b18e7c9e8b18a0d9c31cb7e361d4d6591de3f6fd6ee3fe9384dde",
+    "note": "Git may normalize source line endings; original clinical experiment hashes remain separate."
+  },
+  {
+    "public_path": "experiments/balanced/locked_config.json",
+    "source_role": "balanced locked evaluation",
+    "original_source_sha256": "e7f8cc6fc32375653c56da44c2eb7a18b4b5d47ad77e5bca55f1956259372832",
+    "published_blob_sha256": "e7f8cc6fc32375653c56da44c2eb7a18b4b5d47ad77e5bca55f1956259372832",
+    "note": "Git may normalize source line endings; original clinical experiment hashes remain separate."
+  },
+  {
+    "public_path": "experiments/natural/run_revision.py",
+    "source_role": "natural locked evaluation",
+    "original_source_sha256": "a499da7e27b39eda9caccad76f6c13cb7352daecb7c2bc24d1d9c0722feef08b",
+    "published_blob_sha256": "5721ddfc9f4de64825b334df3f02e0cd786b968e6f70f41d24e95f5391485023",
+    "note": "Git may normalize source line endings; original clinical experiment hashes remain separate."
+  },
+  {
+    "public_path": "experiments/natural/locked_config.json",
+    "source_role": "natural locked evaluation",
+    "original_source_sha256": "f0e4b71e8a71ed0f017704c50f5ef298ea134ced2145ade8ea8e0cd54cc8059f",
+    "published_blob_sha256": "f0e4b71e8a71ed0f017704c50f5ef298ea134ced2145ade8ea8e0cd54cc8059f",
+    "note": "Git may normalize source line endings; original clinical experiment hashes remain separate."
+  }
+]
